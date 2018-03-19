@@ -3,14 +3,20 @@ This is a tool for generating random length string of your designer length.
 
 ![Image showing window](/Images/header.PNG)
 
-### Requirements
+### Requirements *(For Directly running code)*
 
-You'll need to install python 3.6 (*Or newer*) available from https://www.python.org/
+- [python 3.6 (*Or newer*)](https://www.python.org/)
+- A Python IDE (IDLE is included with Python Install)
 
 ## Usage
-- **Install python if you haven't yet**
 
+##### Windows `.exe` file (Preferred)
+1. Download **Windows** executable at: https://github.com/vlee489/Random-String-Generator/releases
+2. Double click to run `main.exe`
+3. Enter the length of the string you need
+4. Paste the string to anywhere you need it. *(The result is copied for you automatically)*
 
+##### Directly running code
 1. Download the `main.py` file
 2. Double click on `main.py` to run it
 3. enter the length of the string you need
