@@ -10,13 +10,13 @@ This is a tool for generating random length string of your designer length.
 
 ## Usage
 
-##### Windows `.exe` file (Preferred)
+### Windows `.exe` file (Preferred)
 1. Download **Windows** executable at: https://github.com/vlee489/Random-String-Generator/releases
 2. Double click to run `main.exe`
 3. Enter the length of the string you need
 4. Paste the string to anywhere you need it. *(The result is copied for you automatically)*
 
-##### Directly running code
+### Directly running code
 1. Download the `main.py` file
 2. Double click on `main.py` to run it
 3. enter the length of the string you need
