@@ -1,7 +1,7 @@
 # Random string generator
 This is a tool for generating random length string of your designer length.
 
-![Image showing window](/Images/header.png)
+![Image showing window](/Images/header.PNG)
 
 ### Requirements
 
