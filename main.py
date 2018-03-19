@@ -22,9 +22,9 @@ start = (random.choice(letters))
 string = start
 
 # Generates and appends remaining needed characters
-for x in range(0, needed):
+for x in range(0, needed):  # Repeats chunk of code for now much 'needed' is
     selected = (random.choice(letters))
-    string = string+selected
+    string = string+selected  # Appends the letter to the rest of the 'string'
 
 # Print out final string
 print('===============================================================================================================')
@@ -33,4 +33,4 @@ print(string)
 copy2clip(string)  # Copies string to user's clipboard
 print('This has been copied to your clipboard!')
 print('===============================================================================================================')
-time.sleep(5)
+time.sleep(5)  # Used to keep window open for 5 sec after use
